@@ -1,6 +1,0 @@
-mkdir git-practice
-cd git-practice
-git init
-git add hello.cpp
-git status
-git commit -m "Add hello world program"
